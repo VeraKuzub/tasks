@@ -1,0 +1,36 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 16px Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+input {
+  font-weight: bold;
+  padding: 11px 32px;
+}
+
+input:focus {
+  border: 1px solid green;
+}
+
+#timer {
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.btn {
+  text-decoration: none;
+  text-align: center;
+  padding: 11px 32px;
+  border: solid 1px #16240e;
+  border-radius: 12px;
+  font-weight: bold;
+  color: #0b1a0a;
+  background: #17e894;
+  background: linear-gradient(to top, #17e894, #2ae810);
+}
